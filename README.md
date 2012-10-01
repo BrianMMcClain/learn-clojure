@@ -1,4 +1,4 @@
 learn-clojure
 =============
 
-Scape files as I learn Clojure
+Scrap files as I learn Clojure
